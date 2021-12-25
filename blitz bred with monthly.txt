@@ -1,0 +1,16 @@
+{{EventBox
+| duration = 7 Days
+| prize = Fall
+
+}}
+
+{{BreedingChain
+|element1=Fire
+|element2=Earth
+|element3=Water
+|element4=Plant
+|child=The Sun
+|parent3=Luduan
+|condition=Reward of [[Castle Event! (21/10/01)]]
+|prize= Fall 
+}}
