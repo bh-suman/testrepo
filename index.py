@@ -1,3 +1,3 @@
 # Just a Home Page
 
-Print(" Hello there, How'ya doing! ")
+Print(" Hello! there, How are you doing! ")

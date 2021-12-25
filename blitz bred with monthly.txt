@@ -8,9 +8,9 @@
 |element1=Fire
 |element2=Plant
 |element3=Water
-|element4=Metal
+|element4=Wind
 |child=The JS
 |parent3=HTML
-|condition=Reward of [[Castle Event! (22/10/01)]]
+|condition=Reward of [[Castle Event! (22/12/01)]]
 |prize= The Python 
 }}
