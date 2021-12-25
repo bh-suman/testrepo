@@ -1,16 +1,16 @@
 {{EventBox
-| duration = 15 Days
-| prize = Hunter
+| duration = 7 Days
+| prize = The Python
 
 }}
 
 {{BreedingChain
 |element1=Fire
-|element2=Earth
+|element2=Plant
 |element3=Water
 |element4=Metal
-|child=The Moon
-|parent3=Koliada
+|child=The JS
+|parent3=HTML
 |condition=Reward of [[Castle Event! (22/10/01)]]
-|prize= Hunter 
+|prize= The Python 
 }}
