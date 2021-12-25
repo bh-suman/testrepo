@@ -1,6 +1,6 @@
 {{EventBox
-| duration = 7 Days
-| prize = Fall
+| duration = 15 Days
+| prize = Hunter
 
 }}
 
@@ -8,9 +8,9 @@
 |element1=Fire
 |element2=Earth
 |element3=Water
-|element4=Plant
-|child=The Sun
-|parent3=Luduan
-|condition=Reward of [[Castle Event! (21/10/01)]]
-|prize= Fall 
+|element4=Metal
+|child=The Moon
+|parent3=Koliada
+|condition=Reward of [[Castle Event! (22/10/01)]]
+|prize= Hunter 
 }}
